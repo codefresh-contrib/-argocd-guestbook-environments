@@ -1,1 +1,1 @@
-# -argocd-guestbook-environments
+# argocd-guestbook-environments
