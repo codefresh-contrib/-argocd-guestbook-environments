@@ -2,4 +2,4 @@ replicaCount: 4
 
 image:
   repository: docker.io/salesdemocf/guestbook
-  tag: '405c04a00b0300b126e29b27400cbce0c5b6cb00'
+  tag: '5a696799e954d6c771aeb505d850c24f654a3978'
